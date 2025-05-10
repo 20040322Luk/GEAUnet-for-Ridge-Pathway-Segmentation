@@ -1,0 +1,12 @@
+模型的参数总量为: 0.135002 M.
+模型参数的分数为 70
+计算 pre_IoU...
+global correct: 93.8
+average row correct: ['95.0', '92.3']
+IoU: ['90.1', '87.2']
+mean IoU: 88.7
+计算 base_IoU...
+global correct: 93.8
+average row correct: ['95.0', '92.3']
+IoU: ['90.1', '87.2']
+mean IoU: 88.7

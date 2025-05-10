@@ -1,0 +1,2 @@
+85.2用b和atest在a的train中miou为74.7,但是在b和atest表现为85
+用ab融合在test表现为81.7,在train中为82.2，b_test中为80.7
